@@ -1,5 +1,5 @@
 # HangmanGameJava
-Hangman game programmed with Java
+Hangman game programmed with Java [IDE: NetBeans]
 
 Author: Edvinas Dulskas
 
